@@ -1,5 +1,4 @@
 # Consumer_Behavior_Analysis
-
 1.进行用户消费趋势的分析（按月）
 1.1每月的消费总金额
 1.2每月的消费次数
